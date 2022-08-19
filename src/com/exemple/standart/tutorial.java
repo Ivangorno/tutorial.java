@@ -7,9 +7,9 @@ public class tutorial {
         System.out.println("Hello, new word");
         System.out.println("update");
         int a;
-        int b;
+        int b=0;
 
-        kfk
+
 
 
     }
