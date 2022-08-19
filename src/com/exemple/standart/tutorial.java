@@ -6,7 +6,7 @@ public class tutorial {
 
         System.out.println("Hello, new word");
         System.out.println("update");
-        int a;
+        int a=1;
         int b=0;
 
 
